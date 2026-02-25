@@ -1,0 +1,26 @@
+.nav-link.active {
+    background-color: #007bff !important;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+thead.table-dark th {
+background-color: #343a40 !important;
+color: #fff !important;
+}
+td.level span{
+display: inline-block;
+background-color:darkturquoise;
+font-weight: bolder;
+border-radius: 5px;
+padding: 2px 5px;
+}
+a.colore
+{
+    background-color:darkturquoise;
+
+}
+a.colore:hover
+{
+    background-color: darkblue;
+    color: white;
+}
