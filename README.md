@@ -56,4 +56,4 @@ La plateforme est conçue pour assurer la sécurité des comptes et un contrôle
 
 1. Cloner le projet :
 ```bash
-git clone https://github.com/Mahawa Camara/gestion-stock-laravel.git
+git clone https://github.com/MahawaCamara/gestion-stock-laravel.git
